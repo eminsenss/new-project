@@ -1,0 +1,22 @@
+{
+  "name": "art-elektronik-reels",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Art Elektronik - 4 kameralı güvenlik sistemi kampanyası Instagram Reels videosu (Remotion)",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render src/index.ts ArtElektronikReels out/video-raw.mp4"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.3.0",
+    "@fontsource/inter-tight": "^5.3.0",
+    "@remotion/cli": "^4.0.541",
+    "@remotion/media-utils": "^4.0.541",
+    "@types/react": "^18.3.31",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.541",
+    "simple-icons": "^13.21.0",
+    "typescript": "^7.0.2"
+  }
+}

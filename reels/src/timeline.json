@@ -1,0 +1,20 @@
+{
+  "fps": 30,
+  "durationInFrames": 1050,
+  "scenes": {
+    "hook":    { "from": 0,   "to": 168 },
+    "product": { "from": 168, "to": 336 },
+    "system":  { "from": 336, "to": 504, "split": 408 },
+    "install": { "from": 504, "to": 672, "split": 576 },
+    "price":   { "from": 672, "to": 840 },
+    "cta":     { "from": 840, "to": 1050 }
+  },
+  "voiceover": [
+    { "file": "audio/vo1.wav", "start": 0.45, "text": "İş yeriniz kapandığında, güvenliğinden emin olmak ister misiniz?" },
+    { "file": "audio/vo2.wav", "start": 6.00, "text": "Art Elektronik'ten dört kameralı güvenlik sistemi." },
+    { "file": "audio/vo3.wav", "start": 11.55, "text": "Gece görüşü, kayıt sistemi ve gerekli ekipmanlarıyla birlikte." },
+    { "file": "audio/vo4.wav", "start": 17.35, "text": "Üstelik montajı ve kurulumu da dahil." },
+    { "file": "audio/vo5.wav", "start": 22.85, "text": "Hepsi, KDV dahil sadece yirmi yedi bin lira." },
+    { "file": "audio/vo6.wav", "start": 28.55, "text": "Detaylı bilgi ve kurulum için hemen Art Elektronik'e ulaşın." }
+  ]
+}
