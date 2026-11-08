@@ -1,0 +1,19 @@
+{
+  "name": "nur-ajanda-redesign-demo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Nur Ajanda alternatif anasayfa konsepti (tasarım demosu) + 35 sn Reels reklam filmi",
+  "type": "module",
+  "scripts": {
+    "build:images": "node tools/build-images.mjs",
+    "build:fonts": "node tools/build-fonts.mjs",
+    "build": "npm run build:fonts && npm run build:images",
+    "serve": "node tools/serve.mjs site 4173",
+    "test:e2e": "node tools/test-site.mjs"
+  },
+  "devDependencies": {
+    "@fontsource-variable/manrope": "^5.1.0",
+    "@fontsource/instrument-serif": "^5.1.0",
+    "sharp": "^0.33.5"
+  }
+}

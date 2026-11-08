@@ -1,0 +1,24 @@
+{
+  "name": "nur-ajanda-reels",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Nur Ajanda — 35 saniyelik 1080x1920 Instagram Reels reklam filmi (Remotion)",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "music": "python3 tools/make_music.py public/audio/nur-ajanda-score.wav",
+    "render": "remotion render src/index.ts NurAjandaReels out/master-remotion.mp4 --codec=h264 --crf=16 --audio-codec=aac --audio-bitrate=256k --concurrency=4 && bash tools/finish.sh",
+    "still": "remotion still src/index.ts NurAjandaReels out/still.png"
+  },
+  "dependencies": {
+    "@fontsource-variable/manrope": "^5.1.0",
+    "@fontsource/instrument-serif": "^5.1.0",
+    "@remotion/cli": "4.0.541",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.541"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.0",
+    "typescript": "^5.6.3"
+  }
+}

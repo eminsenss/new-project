@@ -1,0 +1,1537 @@
+{
+ "source": "https://nurajanda.com/",
+ "retrieved": "2026-11-08",
+ "note": "Fiyatlar sitedeki birim fiyatlardır, KDV hariç (TL). Fiyatı görünmeyen ürünler sitede \"Sorunuz\" olarak listelenir.",
+ "products": [
+  {
+   "name": "Başakşehir-YSL Günlük Ajanda",
+   "model": "Başakşehir-YSL",
+   "price": "270,00",
+   "url": "https://nurajanda.com/basaksehir-ysl-gunluk-ajanda",
+   "thumb": "15005-1-basaksehir-yesil-v2",
+   "cats": [
+    "ajanda-ve-defterler",
+    "tarihli-ajandalar"
+   ]
+  },
+  {
+   "name": "Bayraklı-FM Terzi Dikiş Defter",
+   "model": "Bayraklı-FM",
+   "price": "92,80",
+   "url": "https://nurajanda.com/bayrakli-fm-terzi-dikis-defter",
+   "thumb": "16394-1-bayrakli-fume",
+   "cats": [
+    "ajanda-ve-defterler",
+    "defterler"
+   ]
+  },
+  {
+   "name": "Bostancı-DS Dikişli Günlük Ajanda",
+   "model": "Bostancı-DS",
+   "price": "386,00",
+   "url": "https://nurajanda.com/bostanci-ds-dikisli-gunluk-ajanda",
+   "thumb": "15015-1-bostanci-dikisli-siyah",
+   "cats": [
+    "ajanda-ve-defterler",
+    "tarihli-ajandalar"
+   ]
+  },
+  {
+   "name": "Burgaz-TB Kılıflı Defter",
+   "model": "Burgaz-TB",
+   "price": "398,00",
+   "url": "https://nurajanda.com/burgaz-tb-kilifli-defter",
+   "thumb": "15897-1-burgaz-taba",
+   "cats": [
+    "ajanda-ve-defterler",
+    "organizerler"
+   ]
+  },
+  {
+   "name": "Çatalca-S Günlük Ajanda",
+   "model": "Çatalca-S",
+   "price": "196,00",
+   "url": "https://nurajanda.com/catalca-s-gunluk-ajanda",
+   "thumb": "15917-1-catalca-siyah",
+   "cats": [
+    "ajanda-ve-defterler",
+    "tarihli-ajandalar"
+   ]
+  },
+  {
+   "name": "Darıca-DS Dikişli Haftalık Ajanda",
+   "model": "Darıca-DS",
+   "price": "278,00",
+   "url": "https://nurajanda.com/darica-ds-dikisli-haftalik-ajanda",
+   "thumb": "15815-1-darica-dikisli-siyah",
+   "cats": [
+    "ajanda-ve-defterler",
+    "tarihli-ajandalar"
+   ]
+  },
+  {
+   "name": "Derince-L Günlük Ajanda",
+   "model": "Derince-L",
+   "price": "290,00",
+   "url": "https://nurajanda.com/derince-l-gunluk-ajanda",
+   "thumb": "17042-1-derince-lacivert",
+   "cats": [
+    "ajanda-ve-defterler",
+    "tarihli-ajandalar"
+   ]
+  },
+  {
+   "name": "Eminönü-G Günlük Ajanda",
+   "model": "Eminönü-G",
+   "price": "230,00",
+   "url": "https://nurajanda.com/eminonu-g-gunluk-ajanda",
+   "thumb": "13223-1-eminonu-gri",
+   "cats": [
+    "ajanda-ve-defterler",
+    "tarihli-ajandalar"
+   ]
+  },
+  {
+   "name": "Emirgan-S Günlük Ajanda",
+   "model": "Emirgan-S",
+   "price": "198,00",
+   "url": "https://nurajanda.com/emirgan-s-gunluk-ajanda",
+   "thumb": "17775-1-emirgan-siyah",
+   "cats": [
+    "ajanda-ve-defterler",
+    "tarihli-ajandalar"
+   ]
+  },
+  {
+   "name": "Göztepe-L Gizli Spiralli Günlük Ajanda",
+   "model": "Göztepe-L",
+   "price": "288,00",
+   "url": "https://nurajanda.com/goztepe-l-gizli-spiralli-gunluk-ajanda",
+   "thumb": "15019-1-goztepe-lacivert-v2",
+   "cats": [
+    "ajanda-ve-defterler",
+    "tarihli-ajandalar"
+   ]
+  },
+  {
+   "name": "Hereke-G Gizli Spiralli Günlük Ajanda",
+   "model": "Hereke-G",
+   "price": "348,00",
+   "url": "https://nurajanda.com/hereke-g-gizli-spiralli-gunluk-ajanda",
+   "thumb": "13252-1-hereke-gri",
+   "cats": [
+    "ajanda-ve-defterler",
+    "tarihli-ajandalar"
+   ]
+  },
+  {
+   "name": "İkitelli-FM Günlük Ajanda",
+   "model": "İkitelli-FM",
+   "price": "290,00",
+   "url": "https://nurajanda.com/ikitelli-fm-gunluk-ajanda",
+   "thumb": "14284-1-ikitelli-fume-v2",
+   "cats": [
+    "ajanda-ve-defterler",
+    "tarihli-ajandalar"
+   ]
+  },
+  {
+   "name": "Adalar-KH Tarihsiz Defter",
+   "model": "Adalar-KH",
+   "price": null,
+   "url": "https://nurajanda.com/adalar-kh-tarihsiz-defter",
+   "thumb": "13564-1-adalar-kahve",
+   "cats": [
+    "defterler"
+   ]
+  },
+  {
+   "name": "Ataşehir-FM Tarihsiz Defter",
+   "model": "Ataşehir-FM",
+   "price": "196,00",
+   "url": "https://nurajanda.com/atasehir-fm-tarihsiz-defter",
+   "thumb": "17782-1-atasehir-fume",
+   "cats": [
+    "defterler"
+   ]
+  },
+  {
+   "name": "Bağcılar-17x24-TRK Spiralli Tarihsiz Defter",
+   "model": "Bağcılar-17x24-TRK",
+   "price": "294,00",
+   "url": "https://nurajanda.com/bagcilar-17x24-trk-spiralli-tarihsiz-defter",
+   "thumb": "13954-1-bagcilar-turkuaz",
+   "cats": [
+    "defterler"
+   ]
+  },
+  {
+   "name": "Beykoz-MR Tarihsiz Defter",
+   "model": "Beykoz-MR",
+   "price": "166,00",
+   "url": "https://nurajanda.com/beykoz-mr-tarihsiz-defter",
+   "thumb": "15932-1-beykoz-mor",
+   "cats": [
+    "defterler"
+   ]
+  },
+  {
+   "name": "Bornova-G Tarihsiz Defter",
+   "model": "Bornova-G",
+   "price": "156,00",
+   "url": "https://nurajanda.com/bornova-g-tarihsiz-defter",
+   "thumb": "16347-1-bornova-gri",
+   "cats": [
+    "defterler"
+   ]
+  },
+  {
+   "name": "Çamlıca-TB Tarihsiz Defter",
+   "model": "Çamlıca-TB",
+   "price": "168,00",
+   "url": "https://nurajanda.com/camlica-tb-tarihsiz-defter",
+   "thumb": "17582-1-camlica-taba",
+   "cats": [
+    "defterler"
+   ]
+  },
+  {
+   "name": "Çengelköy-TRK Tarihsiz Defter",
+   "model": "Çengelköy-TRK",
+   "price": "194,00",
+   "url": "https://nurajanda.com/cengelkoy-trk-tarihsiz-defter",
+   "thumb": "14058-1-cengelkoy-turkuaz-yesil",
+   "cats": [
+    "defterler"
+   ]
+  },
+  {
+   "name": "Edremit-TRK Tarihsiz Defter",
+   "model": "Edremit-TRK",
+   "price": "174,00",
+   "url": "https://nurajanda.com/edremit-trk-tarihsiz-defter",
+   "thumb": "15043-1-edremit-turkuaz",
+   "cats": [
+    "defterler"
+   ]
+  },
+  {
+   "name": "Endülüs-K Tarihsiz Defter",
+   "model": "Endülüs-K",
+   "price": "164,00",
+   "url": "https://nurajanda.com/endulus-k-tarihsiz-defter",
+   "thumb": "17898-1-endulus-kirmizi",
+   "cats": [
+    "defterler"
+   ]
+  },
+  {
+   "name": "Esenler-TRKM Tarihsiz Defter",
+   "model": "Esenler-TRKM",
+   "price": "156,00",
+   "url": "https://nurajanda.com/esenler-trkm-tarihsiz-defter",
+   "thumb": "15933-1-esenler-turkuaz-mavi",
+   "cats": [
+    "defterler"
+   ]
+  },
+  {
+   "name": "Eskihisar-B Tarihsiz Defter",
+   "model": "Eskihisar-B",
+   "price": "122,00",
+   "url": "https://nurajanda.com/eskihisar-b-tarihsiz-defter",
+   "thumb": "15050-1-eskihisar-beyaz-v2",
+   "cats": [
+    "defterler"
+   ]
+  },
+  {
+   "name": "0510-220-K Hediyelik Set",
+   "model": "0510-220-K",
+   "price": "340,00",
+   "url": "https://nurajanda.com/0510-220-k-hediyelik-set",
+   "thumb": "15144-1-0510-220-kirmizi",
+   "cats": [
+    "hediyelik-setler",
+    "luks-hediyelik-setler"
+   ]
+  },
+  {
+   "name": "Abant Hediyelik Set",
+   "model": "Abant",
+   "price": "4.260,00",
+   "url": "https://nurajanda.com/abant-hediyelik-set",
+   "thumb": "16901-1-abant-konsept",
+   "cats": [
+    "hediyelik-setler",
+    "luks-hediyelik-setler"
+   ]
+  },
+  {
+   "name": "Akçaabat Hediyelik Set",
+   "model": "Akçaabat",
+   "price": "2.760,00",
+   "url": "https://nurajanda.com/akcaabat-hediyelik-set",
+   "thumb": "16900-1-akcaabat-konsept",
+   "cats": [
+    "hediyelik-setler",
+    "luks-hediyelik-setler"
+   ]
+  },
+  {
+   "name": "Alanya-S Hediyelik Set",
+   "model": "Alanya-S",
+   "price": "590,00",
+   "url": "https://nurajanda.com/alanya-s-hediyelik-set",
+   "thumb": "16273-1-alanya-siyah",
+   "cats": [
+    "hediyelik-setler",
+    "luks-hediyelik-setler"
+   ]
+  },
+  {
+   "name": "Antalya Hediyelik Set",
+   "model": "Antalya",
+   "price": "3.060,00",
+   "url": "https://nurajanda.com/antalya-hediyelik-set",
+   "thumb": "16266-1-antalya-konsept",
+   "cats": [
+    "hediyelik-setler",
+    "luks-hediyelik-setler"
+   ]
+  },
+  {
+   "name": "Artvin Hediyelik Set",
+   "model": "Artvin",
+   "price": "760,00",
+   "url": "https://nurajanda.com/artvin-hediyelik-set",
+   "thumb": "13112-1-artvin",
+   "cats": [
+    "hediyelik-setler",
+    "luks-hediyelik-setler"
+   ]
+  },
+  {
+   "name": "Aydın-K Hediyelik Set",
+   "model": "Aydın-K",
+   "price": "1.120,00",
+   "url": "https://nurajanda.com/aydin-k-hediyelik-set",
+   "thumb": "14932-1-aydin-k",
+   "cats": [
+    "hediyelik-setler",
+    "luks-hediyelik-setler"
+   ]
+  },
+  {
+   "name": "Ayvalık Hediyelik Set",
+   "model": "Ayvalık",
+   "price": "1.840,00",
+   "url": "https://nurajanda.com/ayvalik-hediyelik-set",
+   "thumb": "16269-1-ayvalik-konsept",
+   "cats": [
+    "hediyelik-setler",
+    "luks-hediyelik-setler"
+   ]
+  },
+  {
+   "name": "Bodrum Hediyelik Set",
+   "model": "Bodrum",
+   "price": "2.760,00",
+   "url": "https://nurajanda.com/bodrum-hediyelik-set",
+   "thumb": "13100-1-bodrum-konsept",
+   "cats": [
+    "hediyelik-setler",
+    "luks-hediyelik-setler"
+   ]
+  },
+  {
+   "name": "Çekmeköy-K Hediyelik Set",
+   "model": "Çekmeköy-K",
+   "price": "340,00",
+   "url": "https://nurajanda.com/cekmekoy-k-hediyelik-set",
+   "thumb": "17475-1-cekmekoy-kirmizi",
+   "cats": [
+    "hediyelik-setler",
+    "luks-hediyelik-setler"
+   ]
+  },
+  {
+   "name": "Çorum-K Hediyelik Set",
+   "model": "Çorum-K",
+   "price": "880,00",
+   "url": "https://nurajanda.com/corum-k-hediyelik-set",
+   "thumb": "13115-1-corum-kirmizi",
+   "cats": [
+    "hediyelik-setler",
+    "luks-hediyelik-setler"
+   ]
+  },
+  {
+   "name": "Datça Hediyelik Set",
+   "model": "Datça",
+   "price": "2.000,00",
+   "url": "https://nurajanda.com/datca-hediyelik-set",
+   "thumb": "16270-1-datca-konsept",
+   "cats": [
+    "hediyelik-setler",
+    "luks-hediyelik-setler"
+   ]
+  },
+  {
+   "name": "Ortaköy-L Tarihsiz Defter",
+   "model": "Ortaköy-L",
+   "price": "208,00",
+   "url": "https://nurajanda.com/ortakoy-l-tarihsiz-defter",
+   "thumb": "14051-1-ortakoy-lacivert",
+   "cats": []
+  },
+  {
+   "name": "Feriköy-L Tarihsiz Defter",
+   "model": "Feriköy-L",
+   "price": "128,00",
+   "url": "https://nurajanda.com/ferikoy-l-tarihsiz-defter",
+   "thumb": "13520-1-ferikoy-lacivert-v2",
+   "cats": []
+  },
+  {
+   "name": "Küçüksu-L Tarihsiz Cep Defter",
+   "model": "Küçüksu-L",
+   "price": "82,00",
+   "url": "https://nurajanda.com/kucuksu-l-tarihsiz-cep-defter",
+   "thumb": "15820-1-kucuksu-lacivert",
+   "cats": []
+  },
+  {
+   "name": "Beylikdüzü-K Tarihsiz Defter",
+   "model": "Beylikdüzü-K",
+   "price": "190,00",
+   "url": "https://nurajanda.com/beylikduzu-k-tarihsiz-defter",
+   "thumb": "13307-1-beylikduzu-kirmizi",
+   "cats": []
+  },
+  {
+   "name": "Vefa-FM Tarihsiz Defter",
+   "model": "Vefa-FM",
+   "price": "176,00",
+   "url": "https://nurajanda.com/vefa-fm-tarihsiz-defter",
+   "thumb": "16334-1-vefa-fume",
+   "cats": []
+  },
+  {
+   "name": "PC-6007 Laptop Çantası",
+   "model": "PC-6007",
+   "price": null,
+   "url": "https://nurajanda.com/pc-6007-laptop-cantasi",
+   "thumb": "16176-1-pc-6007",
+   "cats": []
+  },
+  {
+   "name": "W510 Mercan Masa Seti",
+   "model": "W510 Mercan",
+   "price": "6.700,00",
+   "url": "https://nurajanda.com/w510-mercan-masa-seti",
+   "thumb": "16471-1-w510-mercan-kutu",
+   "cats": [
+    "masa-setleri-ve-sumenleri"
+   ]
+  },
+  {
+   "name": "Tarz Sekreter Bloknot",
+   "model": "Tarz",
+   "price": "384,00",
+   "url": "https://nurajanda.com/tarz-sekreter-bloknot",
+   "thumb": "17619-1-tarz",
+   "cats": []
+  },
+  {
+   "name": "Çanakkale Hediyelik Set",
+   "model": "Çanakkale",
+   "price": "2.220,00",
+   "url": "https://nurajanda.com/canakkale-hediyelik-set",
+   "thumb": "14926-1-canakkale-konsept",
+   "cats": []
+  },
+  {
+   "name": "0510-640-L Roller Kalem",
+   "model": "0510-640-L",
+   "price": "170,00",
+   "url": "https://nurajanda.com/0510-640-l-roller-kalem",
+   "thumb": "14145-1-0510-640-lacivert-acik-kutu",
+   "cats": []
+  },
+  {
+   "name": "0036 Vera Ahşap Masa Seti",
+   "model": "0036 Vera",
+   "price": "2.400,00",
+   "url": "https://nurajanda.com/0036-vera-ahsap-masa-seti",
+   "thumb": "17168-1-vera-0036-v2",
+   "cats": [
+    "masa-setleri"
+   ]
+  },
+  {
+   "name": "5200-15-LFM Polo Yaka Tişört",
+   "model": "5200-15-LFM",
+   "price": null,
+   "url": "https://nurajanda.com/5200-15-lfm-polo-yaka-tisort",
+   "thumb": "16777-1-5200-15-siyah",
+   "cats": []
+  },
+  {
+   "name": "AN-6080-S Tek Yön Anahtarlık",
+   "model": "AN-6080-S",
+   "price": "33,40",
+   "url": "https://nurajanda.com/an-6080-s-tek-yon-anahtarlik",
+   "thumb": "17362-1-an-6080-siyah",
+   "cats": []
+  },
+  {
+   "name": "V30-528-DGM Bombe Cam Duvar Saati",
+   "model": "V30-528-DGM",
+   "price": "400,00",
+   "url": "https://nurajanda.com/v30-528-dgm-bombe-cam-duvar-saati",
+   "thumb": "16796-1-528-dgm",
+   "cats": []
+  },
+  {
+   "name": "0555-670-FM Roller Kalem",
+   "model": "0555-670-FM",
+   "price": "110,00",
+   "url": "https://nurajanda.com/0555-670-fm-roller-kalem",
+   "thumb": "17246-1-0555-670-gri",
+   "cats": []
+  },
+  {
+   "name": "0544-35-B Plastik Kalem",
+   "model": "0544-35-B",
+   "price": "9,40",
+   "url": "https://nurajanda.com/0544-35-b-plastik-kalem",
+   "thumb": "14506-1-0544-35-beyaz",
+   "cats": []
+  },
+  {
+   "name": "3530-GM Emzikli Termos",
+   "model": "3530-GM",
+   "price": "430,00",
+   "url": "https://nurajanda.com/3530-gm-emzikli-termos",
+   "thumb": "15546-1-3530-g",
+   "cats": []
+  },
+  {
+   "name": "MB-300 Merdiven Bloknot",
+   "model": "MB-300",
+   "price": null,
+   "url": "https://nurajanda.com/mb-300-merdiven-bloknot",
+   "thumb": "12969-1-merdiven-bloknot",
+   "cats": []
+  },
+  {
+   "name": "AN-1280-L Çift Yön Anahtarlık",
+   "model": "AN-1280-L",
+   "price": "39,00",
+   "url": "https://nurajanda.com/an-1280-l-cift-yon-anahtarlik",
+   "thumb": "13760-1-an-1280-lacivert",
+   "cats": []
+  },
+  {
+   "name": "Adalar-K Tarihsiz Defter",
+   "model": "Adalar-K",
+   "price": null,
+   "url": "https://nurajanda.com/adalar-k-tarihsiz-defter",
+   "thumb": "17125-1-adalar-kirmizi",
+   "cats": []
+  },
+  {
+   "name": "LEVENT-L Çantalı Ajanda",
+   "model": "LEVENT-L",
+   "price": null,
+   "url": "https://nurajanda.com/levent-l-cantali-ajanda",
+   "thumb": "9796-1-levent-lacivert",
+   "cats": []
+  },
+  {
+   "name": "0505-310 Roller ve Tükenmez Kalem",
+   "model": "0505-310",
+   "price": null,
+   "url": "https://nurajanda.com/0505-310-roller-ve-tukenmez-kalem",
+   "thumb": "17179-1-0505-310",
+   "cats": [
+    "kalem-setleri"
+   ]
+  },
+  {
+   "name": "0505-330 Roller ve Tükenmez Kalem",
+   "model": "0505-330",
+   "price": "600,00",
+   "url": "https://nurajanda.com/0505-330-roller-ve-tukenmez-kalem",
+   "thumb": "17183-1-0505-330-kutu",
+   "cats": [
+    "kalem-setleri"
+   ]
+  },
+  {
+   "name": "0505-360 Roller ve Tükenmez Kalem",
+   "model": "0505-360",
+   "price": null,
+   "url": "https://nurajanda.com/0505-360-roller-ve-tukenmez-kalem",
+   "thumb": "17184-1-0505-360-kutu",
+   "cats": [
+    "kalem-setleri"
+   ]
+  },
+  {
+   "name": "0505-440 Roller ve Tükenmez Kalem",
+   "model": "0505-440",
+   "price": null,
+   "url": "https://nurajanda.com/0505-440-roller-ve-tukenmez-kalem",
+   "thumb": "7368-1-0505-440-kutu",
+   "cats": [
+    "kalem-setleri"
+   ]
+  },
+  {
+   "name": "0510-350-L Roller Kalem",
+   "model": "0510-350-L",
+   "price": "220,00",
+   "url": "https://nurajanda.com/0510-350-l-roller-kalem",
+   "thumb": "17199-1-0510-350",
+   "cats": [
+    "kalem-setleri"
+   ]
+  },
+  {
+   "name": "0510-490 Roller ve Tükenmez Kalem",
+   "model": "0510-490",
+   "price": "176,00",
+   "url": "https://nurajanda.com/0510-490-roller-ve-tukenmez-kalem",
+   "thumb": "17825-1-0510-490",
+   "cats": [
+    "kalem-setleri"
+   ]
+  },
+  {
+   "name": "0510-820-K Dokunmatik Roller Kalem",
+   "model": "0510-820-K",
+   "price": "174,00",
+   "url": "https://nurajanda.com/0510-820-k-dokunmatik-roller-kalem",
+   "thumb": "15140-1-0510-820-kirmizi-acik-kutu",
+   "cats": [
+    "kalem-setleri"
+   ]
+  },
+  {
+   "name": "0510-990-S Kutulu Roller Kalem",
+   "model": "0510-990-S",
+   "price": "270,00",
+   "url": "https://nurajanda.com/0510-990-s-kutulu-roller-kalem",
+   "thumb": "17191-1-0510-990-siyah-v2",
+   "cats": [
+    "kalem-setleri"
+   ]
+  },
+  {
+   "name": "0505-630 Roller, Tükenmez Kalem ve Anahtarlık",
+   "model": "0505-630",
+   "price": "600,00",
+   "url": "https://nurajanda.com/0505-630-roller-tukenmez-kalem-ve-anahtarlik",
+   "thumb": "17814-1-0505-630",
+   "cats": [
+    "kalem-setleri"
+   ]
+  },
+  {
+   "name": "0505-80 Roller ve Tükenmez Kalem",
+   "model": "0505-80",
+   "price": "600,00",
+   "url": "https://nurajanda.com/0505-80-roller-ve-tukenmez-kalem",
+   "thumb": "9101-1-0505-80",
+   "cats": [
+    "kalem-setleri"
+   ]
+  },
+  {
+   "name": "0510-480 Roller ve Tükenmez Kalem",
+   "model": "0510-480",
+   "price": "154,00",
+   "url": "https://nurajanda.com/0510-480-roller-ve-tukenmez-kalem",
+   "thumb": "17826-1-0510-480",
+   "cats": [
+    "kalem-setleri"
+   ]
+  },
+  {
+   "name": "0505-420 Roller ve Tükenmez Kalem",
+   "model": "0505-420",
+   "price": "586,00",
+   "url": "https://nurajanda.com/0505-420-roller-ve-tukenmez-kalem",
+   "thumb": "7367-1-0505-420-kutu",
+   "cats": [
+    "kalem-setleri"
+   ]
+  },
+  {
+   "name": "6110 Eksen Ahşap Masa Seti",
+   "model": "6110",
+   "price": "1.720,00",
+   "url": "https://nurajanda.com/6110-eksen-ahsap-masa-seti",
+   "thumb": "13644-1-6110-eksen",
+   "cats": [
+    "masa-setleri-ve-sumenleri",
+    "masa-setleri"
+   ]
+  },
+  {
+   "name": "6600 Aylan Ahşap Masa Seti",
+   "model": "6600",
+   "price": "1.440,00",
+   "url": "https://nurajanda.com/6600-aylan-ahsap-masa-seti",
+   "thumb": "14099-1-aylan-6600",
+   "cats": [
+    "masa-setleri-ve-sumenleri",
+    "masa-setleri"
+   ]
+  },
+  {
+   "name": "9400 Elmas Ahşap Masa Seti",
+   "model": "9400",
+   "price": "1.720,00",
+   "url": "https://nurajanda.com/9400-elmas-ahsap-masa-seti",
+   "thumb": "13645-1-9400-elmas",
+   "cats": [
+    "masa-setleri-ve-sumenleri",
+    "masa-setleri"
+   ]
+  },
+  {
+   "name": "D-3136 Deri Organizer",
+   "model": "D-3136",
+   "price": "240,00",
+   "url": "https://nurajanda.com/d-3136-deri-organizer",
+   "thumb": "11447-1-3136",
+   "cats": [
+    "masa-setleri-ve-sumenleri"
+   ]
+  },
+  {
+   "name": "D-3180 Deri Organizer",
+   "model": "D-3180",
+   "price": "440,00",
+   "url": "https://nurajanda.com/d-3180-deri-organizer",
+   "thumb": "15100-1-d-3180-konsept",
+   "cats": [
+    "masa-setleri-ve-sumenleri"
+   ]
+  },
+  {
+   "name": "KM-300 3lü Kristal Masa Seti",
+   "model": "KM-300",
+   "price": "3.600,00",
+   "url": "https://nurajanda.com/km-300-3lu-kristal-masa-seti",
+   "thumb": "17621-1-km-300-konsept",
+   "cats": [
+    "masa-setleri-ve-sumenleri"
+   ]
+  },
+  {
+   "name": "KM-60 Kristal Masa Seti",
+   "model": "KM-60",
+   "price": "1.820,00",
+   "url": "https://nurajanda.com/km-60-kristal-masa-seti",
+   "thumb": "13679-1-km-60",
+   "cats": [
+    "masa-setleri-ve-sumenleri"
+   ]
+  },
+  {
+   "name": "KM-65 Kristal Masa Seti",
+   "model": "KM-65",
+   "price": "2.340,00",
+   "url": "https://nurajanda.com/km-65-kristal-masa-seti",
+   "thumb": "15107-1-km-65",
+   "cats": [
+    "masa-setleri-ve-sumenleri"
+   ]
+  },
+  {
+   "name": "KM-85 Kristal Masa Seti",
+   "model": "KM-85",
+   "price": "1.820,00",
+   "url": "https://nurajanda.com/km-85-kristal-masa-seti",
+   "thumb": "14225-1-km-85",
+   "cats": [
+    "masa-setleri-ve-sumenleri"
+   ]
+  },
+  {
+   "name": "Kral Kristal Masa Seti",
+   "model": "Kral",
+   "price": "3.500,00",
+   "url": "https://nurajanda.com/kral-kristal-masa-seti",
+   "thumb": "17177-1-kral-5101-konsept",
+   "cats": [
+    "masa-setleri-ve-sumenleri"
+   ]
+  },
+  {
+   "name": "D-3117 Deri Organizer",
+   "model": "D-3117",
+   "price": "270,00",
+   "url": "https://nurajanda.com/d-3117-deri-organizer",
+   "thumb": "7055-1-3117",
+   "cats": [
+    "masa-setleri-ve-sumenleri"
+   ]
+  },
+  {
+   "name": "0054 Akbey Deri Masa Seti",
+   "model": "0054",
+   "price": "1.000,00",
+   "url": "https://nurajanda.com/0054-akbey-deri-masa-seti",
+   "thumb": "17176-1-akbey-0054",
+   "cats": [
+    "masa-setleri"
+   ]
+  },
+  {
+   "name": "2030 Ela Ahşap Masa Seti",
+   "model": "2030",
+   "price": "1.720,00",
+   "url": "https://nurajanda.com/2030-ela-ahsap-masa-seti",
+   "thumb": "13648-1-2030",
+   "cats": [
+    "masa-setleri"
+   ]
+  },
+  {
+   "name": "0064 Zümra Ahşap Masa Seti",
+   "model": "0064",
+   "price": "1.680,00",
+   "url": "https://nurajanda.com/0064-zumra-ahsap-masa-seti",
+   "thumb": "17169-1-zumra-0064-v2",
+   "cats": [
+    "masa-setleri"
+   ]
+  },
+  {
+   "name": "4600 Ayyıldız Ahşap Masa Seti",
+   "model": "4600",
+   "price": "1.250,00",
+   "url": "https://nurajanda.com/4600-ayyildiz-ahsap-masa-seti",
+   "thumb": "12016-1-4600-ayyildiz",
+   "cats": [
+    "masa-setleri"
+   ]
+  },
+  {
+   "name": "0069 Acarbey Masa Seti",
+   "model": "0069",
+   "price": "920,00",
+   "url": "https://nurajanda.com/0069-acarbey-masa-seti",
+   "thumb": "17174-1-acarbey-0069",
+   "cats": [
+    "masa-setleri"
+   ]
+  },
+  {
+   "name": "0065 Muaz Masa Seti",
+   "model": "0065",
+   "price": "1.290,00",
+   "url": "https://nurajanda.com/0065-muaz-masa-seti",
+   "thumb": "17170-1-muaz-0065-v2",
+   "cats": [
+    "masa-setleri"
+   ]
+  },
+  {
+   "name": "5800 Sezer Ahşap Masa Seti",
+   "model": "5800",
+   "price": "940,00",
+   "url": "https://nurajanda.com/5800-sezer-ahsap-masa-seti",
+   "thumb": "14105-1-sezer-5800",
+   "cats": [
+    "masa-setleri"
+   ]
+  },
+  {
+   "name": "0071 Hilal-S Deri Masa Seti",
+   "model": "0071 Hilal-S",
+   "price": "1.600,00",
+   "url": "https://nurajanda.com/0071-hilal-s-deri-masa-seti",
+   "thumb": "17173-1-hilal-0071-siyah-v2",
+   "cats": [
+    "masa-setleri"
+   ]
+  },
+  {
+   "name": "Malatya-K Organizer Ajanda",
+   "model": "Malatya-K",
+   "price": "670,00",
+   "url": "https://nurajanda.com/malatya-k-organizer-ajanda",
+   "thumb": "17551-1-malatya-kirmizi",
+   "cats": [
+    "organizerler"
+   ]
+  },
+  {
+   "name": "Maslak-FM Organizer Ajanda",
+   "model": "Maslak-FM",
+   "price": "670,00",
+   "url": "https://nurajanda.com/maslak-fm-organizer-ajanda",
+   "thumb": "16298-1-maslak-fume",
+   "cats": [
+    "organizerler"
+   ]
+  },
+  {
+   "name": "Mersin Organizer Ajanda",
+   "model": "Mersin",
+   "price": null,
+   "url": "https://nurajanda.com/mersin-organizer-ajanda",
+   "thumb": "17558-1-mersin-siyah",
+   "cats": [
+    "organizerler"
+   ]
+  },
+  {
+   "name": "Silivri-G Kılıflı Defter",
+   "model": "Silivri-G",
+   "price": "430,00",
+   "url": "https://nurajanda.com/silivri-g-kilifli-defter",
+   "thumb": "15896-1-silivri-gri",
+   "cats": [
+    "organizerler"
+   ]
+  },
+  {
+   "name": "Trabzon-L Organizer Ajanda",
+   "model": "Trabzon-L",
+   "price": "670,00",
+   "url": "https://nurajanda.com/trabzon-l-organizer-ajanda",
+   "thumb": "17547-1-trabzon-lacivert",
+   "cats": [
+    "organizerler"
+   ]
+  },
+  {
+   "name": "Adana-S Organizer Ajanda",
+   "model": "Adana-S",
+   "price": "540,00",
+   "url": "https://nurajanda.com/adana-s-organizer-ajanda",
+   "thumb": "17555-1-adana-siyah",
+   "cats": [
+    "organizerler"
+   ]
+  },
+  {
+   "name": "Konak-KR Organizer Cep Defteri",
+   "model": "Konak-KR",
+   "price": "150,00",
+   "url": "https://nurajanda.com/konak-kr-organizer-cep-defteri",
+   "thumb": "14264-1-konak-krem",
+   "cats": [
+    "organizerler"
+   ]
+  },
+  {
+   "name": "Manavgat-L Organizer Ajanda",
+   "model": "Manavgat-L",
+   "price": "540,00",
+   "url": "https://nurajanda.com/manavgat-l-organizer-ajanda",
+   "thumb": "15884-1-manavgat-lacivert",
+   "cats": [
+    "organizerler"
+   ]
+  },
+  {
+   "name": "Çeşme-FM Organizer Ajanda",
+   "model": "Çeşme-FM",
+   "price": "540,00",
+   "url": "https://nurajanda.com/cesme-fm-organizer-ajanda",
+   "thumb": "16301-1-cesme-fume",
+   "cats": [
+    "organizerler"
+   ]
+  },
+  {
+   "name": "Didim-K Organizer Ajanda",
+   "model": "Didim-K",
+   "price": "670,00",
+   "url": "https://nurajanda.com/didim-k-organizer-ajanda",
+   "thumb": "13212-1-didim-kirmizi",
+   "cats": [
+    "organizerler"
+   ]
+  },
+  {
+   "name": "Etiler-K Organizer Ajanda",
+   "model": "Etiler-K",
+   "price": null,
+   "url": "https://nurajanda.com/etiler-k-organizer-ajanda",
+   "thumb": "9960-1-etiler-kirmizi",
+   "cats": [
+    "organizerler"
+   ]
+  },
+  {
+   "name": "Kandilli-FM Günlük Ajanda",
+   "model": "Kandilli-FM",
+   "price": "226,00",
+   "url": "https://nurajanda.com/kandilli-fm-gunluk-ajanda",
+   "thumb": "15910-1-kandilli-fume",
+   "cats": [
+    "tarihli-ajandalar"
+   ]
+  },
+  {
+   "name": "Kasımpaşa-G Günlük Ajanda",
+   "model": "Kasımpaşa-G",
+   "price": "226,00",
+   "url": "https://nurajanda.com/kasimpasa-g-gunluk-ajanda",
+   "thumb": "17559-1-kasimpasa-gri",
+   "cats": [
+    "tarihli-ajandalar"
+   ]
+  },
+  {
+   "name": "Kırmızı Lazer Kapak Tarihsiz Defter 13x21 cm 192 Sayfa Çizgili  80 gr Ivory Kağıt",
+   "model": "Kırmızı",
+   "price": null,
+   "url": "https://nurajanda.com/kirmizi-lazer-kapak-tarihsiz-defter",
+   "thumb": "siyah-termoderi-kapak-promsoyon-defter-6",
+   "cats": [
+    "yerli-uretim-promosyon-defterler"
+   ]
+  },
+  {
+   "name": "Kırmızı Plike Kapak Tarihsiz Defter 13x21 cm 224 Sayfa Çizgili  80 gr Ivory Kağıt",
+   "model": "Kırmızı",
+   "price": null,
+   "url": "https://nurajanda.com/kirmizi-pilike-kapak-tarihsiz-defter",
+   "thumb": "siyah-termoderi-kapak-promsoyon-defter-2",
+   "cats": [
+    "yerli-uretim-promosyon-defterler"
+   ]
+  },
+  {
+   "name": "Siyah Mini Cep Boy Tarihsiz Defter 9x14 cm 192 Sayfa Çizgili 80 gr Ivory",
+   "model": "Siyah",
+   "price": null,
+   "url": "https://nurajanda.com/siyah-mini-cep-boy-cizgili-tarihsiz-defter-9x14",
+   "thumb": "siyah-termoderi-kapak-promsoyon-defter-2",
+   "cats": [
+    "yerli-uretim-promosyon-defterler"
+   ]
+  },
+  {
+   "name": "Taba Mini Yumuşak Kapak Tarihsiz Defter 10x17 cm",
+   "model": "Taba",
+   "price": null,
+   "url": "https://nurajanda.com/taba-mini-yumusak-kapak-tarihsiz-defter-10x17-cm",
+   "thumb": "siyah-termoderi-kapak-promsoyon-defter-2",
+   "cats": [
+    "yerli-uretim-promosyon-defterler"
+   ]
+  },
+  {
+   "name": "Güngören-Desenli-G Tarihsiz Defter",
+   "model": "Güngören-Desenli-G",
+   "price": "304,00",
+   "url": "https://nurajanda.com/gungoren-desenli-g-tarihsiz-defter",
+   "thumb": "14040-1-gungoren-desen-gri",
+   "cats": [
+    "yerli-uretim-promosyon-defterler"
+   ]
+  },
+  {
+   "name": "Kırmızı Tokalı Tarihsiz Defter - 13x21 cm - 224 Sayfa Çizgili - 80 gr Ivory Kağıt",
+   "model": "Kırmızı",
+   "price": null,
+   "url": "https://nurajanda.com/kirmizi-tokali-cizgili-tarihsiz-defter",
+   "thumb": "siyah-termoderi-kapak-promsoyon-defter-3",
+   "cats": [
+    "yerli-uretim-promosyon-defterler"
+   ]
+  },
+  {
+   "name": "Siyah Kartlıklı Tarihsiz Defter 15x21 cm 224 Sayfa Çizgili 80 gr Ivory Kağıt",
+   "model": "Siyah",
+   "price": null,
+   "url": "https://nurajanda.com/siyah-kartlikli-tarihsiz-defter-15x21-cm-224-sayfa-cizgili-80-gr-ivory-kagit",
+   "thumb": "siyah-termoderi-kapak-promsoyon-defter-4",
+   "cats": [
+    "yerli-uretim-promosyon-defterler"
+   ]
+  },
+  {
+   "name": "Siyah Termo Deri Sert Kapaklı Kalem ve Kapak Lastikli Promosyon Defter",
+   "model": "Siyah",
+   "price": null,
+   "url": "https://nurajanda.com/siyah-termo-deri-sert-kapak-cizgili-defter",
+   "thumb": "chatgpt-image-7-agu-2026-15_18_16",
+   "cats": [
+    "yerli-uretim-promosyon-defterler"
+   ]
+  },
+  {
+   "name": "Sİyah L Model Tarihsiz Defter - 14x21 cm - 224 Sayfa Çizgili - 80 gr Ivory Kağıt",
+   "model": "Sİyah",
+   "price": null,
+   "url": "https://nurajanda.com/siyah-l-model-tarihsiz-defter",
+   "thumb": "siyah-termoderi-kapak-promsoyon-defter-8",
+   "cats": [
+    "yerli-uretim-promosyon-defterler"
+   ]
+  },
+  {
+   "name": "Kırmızı Fitilli Tarihsiz Defter - 14x21 cm - 224 Sayfa Çizgili - 80 gr Ivory Kağıt",
+   "model": "Kırmızı",
+   "price": null,
+   "url": "https://nurajanda.com/kirmizi-fitilli-tarihsiz-defter",
+   "thumb": "siyah-termoderi-kapak-promsoyon-defter-2",
+   "cats": [
+    "yerli-uretim-promosyon-defterler"
+   ]
+  },
+  {
+   "name": "Kırmızı Kanguru Tarihsiz Defter - 14x21 cm - 224 Sayfa Çizgili - 80 gr Ivory Kağıt",
+   "model": "Kırmızı",
+   "price": null,
+   "url": "https://nurajanda.com/kirmizi-kanguru-tarihsiz-defter",
+   "thumb": "siyah-termoderi-kapak-promsoyon-defter-5",
+   "cats": [
+    "yerli-uretim-promosyon-defterler"
+   ]
+  },
+  {
+   "name": "Siyah Spiralli Tarihsiz Defter - 13x21 cm - 200 Sayfa Çizgili - 80 gr Ivory Kağıt",
+   "model": "Siyah",
+   "price": null,
+   "url": "https://nurajanda.com/siyah-spiralli-tarihsiz-defter",
+   "thumb": "siyah-termoderi-kapak-promsoyon-defter-6",
+   "cats": [
+    "yerli-uretim-promosyon-defterler"
+   ]
+  }
+ ],
+ "details": [
+  {
+   "file": "0036-vera-ahsap-masa-seti.html",
+   "url": "https://nurajanda.com/0036-vera-ahsap-masa-seti",
+   "name": "0036 Vera Ahşap Masa Seti",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/5-masa-setleri/17168-ahsap-masa-seti/17168-1-vera-0036-v2"
+   ],
+   "text": "Ürün Kodu 0036 Vera Stok Stok güncelleniyor… Birim fiyat ₺ 2.400,00 + KDV ₺ 2.400,00 + KDV − + Teklif Listeme Ekle Özellikler Ebat 20 x 40 cm Baskı Alanı 130 x 55 mm ME Baskı Alanı 20 x 55 mm ",
+   "price": "2.400,00",
+   "min": null
+  },
+  {
+   "file": "0071-hilal-s-deri-masa-seti.html",
+   "url": "https://nurajanda.com/0071-hilal-s-deri-masa-seti",
+   "name": "0071 Hilal-S Deri Masa Seti",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/5-masa-setleri/17173-deri-masa-seti/17173-1-hilal-0071-siyah-v2"
+   ],
+   "text": "Ürün Kodu 0071 Hilal-S Stok Stok güncelleniyor… Birim fiyat ₺ 1.600,00 + KDV ₺ 1.600,00 + KDV − + Teklif Listeme Ekle Özellikler Ebat 20 x 40 cm Baskı Alanı 20 x 55 mm ME Baskı Alanı 55 x 130 mm Renk Siyah ",
+   "price": "1.600,00",
+   "min": null
+  },
+  {
+   "file": "0505-330-roller-ve-tukenmez-kalem.html",
+   "url": "https://nurajanda.com/0505-330-roller-ve-tukenmez-kalem",
+   "name": "0505-330 Roller ve Tükenmez Kalem",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/14-kalem-setleri/17183-roller-ve-tukenmez-kalem/17183-1-0505-330-kutu",
+    "catalog/tedarikci/etkin/urunler/14-kalem-setleri/17183-roller-ve-tukenmez-kalem/17183-2-0505-330-roller",
+    "catalog/tedarikci/etkin/urunler/14-kalem-setleri/17183-roller-ve-tukenmez-kalem/17183-3-0505-330-tukenmez-a"
+   ],
+   "text": "Ürün Kodu 0505-330 Stok Stok güncelleniyor… Birim fiyat ₺ 600,00 + KDV ₺ 600,00 + KDV − + Teklif Listeme Ekle ",
+   "price": "600,00",
+   "min": null
+  },
+  {
+   "file": "0505-420-roller-ve-tukenmez-kalem.html",
+   "url": "https://nurajanda.com/0505-420-roller-ve-tukenmez-kalem",
+   "name": "0505-420 Roller ve Tükenmez Kalem",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/14-kalem-setleri/7367-roller-ve-tukenmez-kalem/7367-1-0505-420-kutu",
+    "catalog/tedarikci/etkin/urunler/14-kalem-setleri/7367-roller-ve-tukenmez-kalem/7367-2-0505-420-tukenmez",
+    "catalog/tedarikci/etkin/urunler/14-kalem-setleri/7367-roller-ve-tukenmez-kalem/7367-3-0505-425-roller"
+   ],
+   "text": "Ürün Kodu 0505-420 Stok Stok güncelleniyor… Birim fiyat ₺ 586,00 + KDV ₺ 586,00 + KDV − + Teklif Listeme Ekle ",
+   "price": "586,00",
+   "min": null
+  },
+  {
+   "file": "0505-80-roller-ve-tukenmez-kalem.html",
+   "url": "https://nurajanda.com/0505-80-roller-ve-tukenmez-kalem",
+   "name": "0505-80 Roller ve Tükenmez Kalem",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/14-kalem-setleri/9101-roller-ve-tukenmez-kalem/9101-1-0505-80",
+    "catalog/tedarikci/etkin/urunler/14-kalem-setleri/9101-roller-ve-tukenmez-kalem/9101-2-0505-80-roller-2020",
+    "catalog/tedarikci/etkin/urunler/14-kalem-setleri/9101-roller-ve-tukenmez-kalem/9101-3-0505-80-tukenmez-2020"
+   ],
+   "text": "Ürün Kodu 0505-80 Stok Stok güncelleniyor… Birim fiyat ₺ 600,00 + KDV ₺ 600,00 + KDV − + Teklif Listeme Ekle ",
+   "price": "600,00",
+   "min": null
+  },
+  {
+   "file": "0510-640-l-roller-kalem.html",
+   "url": "https://nurajanda.com/0510-640-l-roller-kalem",
+   "name": "0510-640-L Roller Kalem",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/14-kalem-setleri/14145-roller-kalem/14145-1-0510-640-lacivert-acik-kutu",
+    "catalog/tedarikci/etkin/urunler/14-kalem-setleri/14145-roller-kalem/14145-2-0510-640-lacivert",
+    "catalog/tedarikci/etkin/urunler/14-kalem-setleri/14145-roller-kalem/14145-3-0510-640-mavi"
+   ],
+   "text": "Ürün Kodu 0510-640-L Stok Stok güncelleniyor… Birim fiyat ₺ 170,00 + KDV ₺ 170,00 + KDV − + Teklif Listeme Ekle Özellikler Diğer seçenekler Renk Lacivert Seçenekler Renk Stok Kırmızı Stok güncelleniyor… Siyah Stok güncelleniyor… ",
+   "price": "170,00",
+   "min": null
+  },
+  {
+   "file": "abant-hediyelik-set.html",
+   "url": "https://nurajanda.com/abant-hediyelik-set",
+   "name": "Abant Hediyelik Set",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16901-hediyelik-set/16901-1-abant-konsept",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16901-hediyelik-set/16901-2-ince-kutu",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16901-hediyelik-set/16901-3-0505-300-siyah-2",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16901-hediyelik-set/16901-4-0505-300-siyah",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16901-hediyelik-set/16901-5-ferikoy-siyah",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16901-hediyelik-set/16901-6-akcaabat-usb-bellek",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16901-hediyelik-set/16901-7-pwb-75",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16901-hediyelik-set/16901-8-spk-80-a",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16901-hediyelik-set/16901-9-tt-75-a"
+   ],
+   "text": "Ürün Kodu Abant Stok Stok güncelleniyor… Birim fiyat ₺ 4.260,00 + KDV ₺ 4.260,00 + KDV − + Teklif Listeme Ekle Özellikler Ebat 37 x 31 x 6 cm ",
+   "price": "4.260,00",
+   "min": null
+  },
+  {
+   "file": "akcaabat-hediyelik-set.html",
+   "url": "https://nurajanda.com/akcaabat-hediyelik-set",
+   "name": "Akçaabat Hediyelik Set",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16900-hediyelik-set/16900-1-akcaabat-konsept",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16900-hediyelik-set/16900-2-0505-300-siyah-2",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16900-hediyelik-set/16900-3-0505-300-siyah",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16900-hediyelik-set/16900-4-akcaabat-anahtarlik",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16900-hediyelik-set/16900-5-akcaabat-defter",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16900-hediyelik-set/16900-6-akcaabat-kartvizitlik",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16900-hediyelik-set/16900-7-akcaabat-powerbank",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16900-hediyelik-set/16900-8-akcaabat-usb-bellek",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16900-hediyelik-set/16900-9-ince-kutu"
+   ],
+   "text": "Ürün Kodu Akçaabat Stok Stok güncelleniyor… Birim fiyat ₺ 2.760,00 + KDV ₺ 2.760,00 + KDV − + Teklif Listeme Ekle Özellikler Ebat 37 x 31 x 6 cm ",
+   "price": "2.760,00",
+   "min": null
+  },
+  {
+   "file": "antalya-hediyelik-set.html",
+   "url": "https://nurajanda.com/antalya-hediyelik-set",
+   "name": "Antalya Hediyelik Set",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16266-hediyelik-set/16266-1-antalya-konsept",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16266-hediyelik-set/16266-2-8115-325",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16266-hediyelik-set/16266-3-akcaabat-powerbank",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16266-hediyelik-set/16266-4-buyuk-yeni-kutu",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16266-hediyelik-set/16266-5-cb-05-500-ml",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16266-hediyelik-set/16266-6-spk-80-a"
+   ],
+   "text": "Ürün Kodu Antalya Stok Stok güncelleniyor… Birim fiyat ₺ 3.060,00 + KDV ₺ 3.060,00 + KDV − + Teklif Listeme Ekle Özellikler Kutu Taslama Ebat 35 x 29 x 14 cm ",
+   "price": "3.060,00",
+   "min": null
+  },
+  {
+   "file": "atasehir-fm-tarihsiz-defter.html",
+   "url": "https://nurajanda.com/atasehir-fm-tarihsiz-defter",
+   "name": "Ataşehir-FM Tarihsiz Defter",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/25-defterler/17782-tarihsiz-defter/17782-1-atasehir-fume",
+    "catalog/tedarikci/etkin/urunler/25-defterler/17782-tarihsiz-defter/17782-2-atasehir-yumusak-kapak",
+    "catalog/tedarikci/etkin/urunler/25-defterler/17782-tarihsiz-defter/17782-3-atasehir-konsept"
+   ],
+   "text": "Ürün Kodu Ataşehir-FM Stok Stok güncelleniyor… Birim fiyat ₺ 196,00 + KDV ₺ 196,00 + KDV − + Teklif Listeme Ekle Özellikler Diğer seçenekler Deri Termo Ebat 15 x 21 cm Kapak Yumuşak, Esnek Kenarlar Renkli Baskı Gofre, UV, Lazer Koli Adeti 40 Sayfa Stili Çizgili Sayfa Sayısı 224 Kağıt 80 gram Krem Renk Füme Seçenekler Renk Stok Kırmızı Stok güncelleniyor… Lacivert Stok güncelleniyor… Siyah Stok güncelleniyor… Taba Stok güncelleniyor… Yeşil Stok güncelleniyor… ",
+   "price": "196,00",
+   "min": null
+  },
+  {
+   "file": "ayvalik-hediyelik-set.html",
+   "url": "https://nurajanda.com/ayvalik-hediyelik-set",
+   "name": "Ayvalık Hediyelik Set",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16269-hediyelik-set/16269-1-ayvalik-konsept",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16269-hediyelik-set/16269-2-0555-320-siyah-v3",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16269-hediyelik-set/16269-3-akcaabat-usb-bellek",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16269-hediyelik-set/16269-4-an5285-siyah",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16269-hediyelik-set/16269-5-istiklal-siyah",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16269-hediyelik-set/16269-6-kutu4",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16269-hediyelik-set/16269-7-pwb-900-siyah"
+   ],
+   "text": "Ürün Kodu Ayvalık Stok Stok güncelleniyor… Birim fiyat ₺ 1.840,00 + KDV ₺ 1.840,00 + KDV − + Teklif Listeme Ekle Özellikler Kutu Cilt Bezi Ebat 28 x 26 x 3,5 cm ",
+   "price": "1.840,00",
+   "min": null
+  },
+  {
+   "file": "bodrum-hediyelik-set.html",
+   "url": "https://nurajanda.com/bodrum-hediyelik-set",
+   "name": "Bodrum Hediyelik Set",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/13100-hediyelik-set/13100-1-bodrum-konsept",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/13100-hediyelik-set/13100-2-0505-300-siyah-2",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/13100-hediyelik-set/13100-3-0505-300-siyah",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/13100-hediyelik-set/13100-4-8113-siyah",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/13100-hediyelik-set/13100-5-bodrum-beylikduzu-siyah",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/13100-hediyelik-set/13100-6-bodrum-pwb-135",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/13100-hediyelik-set/13100-7-kutu5",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/13100-hediyelik-set/13100-8-kvz-007",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/13100-hediyelik-set/13100-9-an-6230-siyah"
+   ],
+   "text": "Ürün Kodu Bodrum Stok Stok güncelleniyor… Birim fiyat ₺ 2.760,00 + KDV ₺ 2.760,00 + KDV − + Teklif Listeme Ekle Özellikler Kutu Cilt Bezi Ebat 38 x 28 x 5,5 cm ",
+   "price": "2.760,00",
+   "min": null
+  },
+  {
+   "file": "bostanci-ds-dikisli-gunluk-ajanda.html",
+   "url": "https://nurajanda.com/bostanci-ds-dikisli-gunluk-ajanda",
+   "name": "Bostancı-DS Dikişli Günlük Ajanda",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/19-tarihli-ajandalar/15015-dikisli-gunluk-ajanda/15015-1-bostanci-dikisli-siyah"
+   ],
+   "text": "Ürün Kodu Bostancı-DS Stok Stok güncelleniyor… Birim fiyat ₺ 386,00 + KDV ₺ 386,00 + KDV − + Teklif Listeme Ekle Özellikler Diğer seçenekler Deri Termo Ebat 20 x 28 cm Baskı Gofre, UV Sayfa Sayısı 336 Kağıt 70 gram (Ivory) Krem Renk Siyah Seçenekler Renk Stok Kırmızı Stok güncelleniyor… Lacivert Stok güncelleniyor… Taba Stok güncelleniyor… ",
+   "price": "386,00",
+   "min": null
+  },
+  {
+   "file": "burgaz-tb-kilifli-defter.html",
+   "url": "https://nurajanda.com/burgaz-tb-kilifli-defter",
+   "name": "Burgaz-TB Kılıflı Defter",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/18-organizerler/15897-kilifli-defter/15897-1-burgaz-taba",
+    "catalog/tedarikci/etkin/urunler/18-organizerler/15897-kilifli-defter/15897-2-burgaz-taba-defter",
+    "catalog/tedarikci/etkin/urunler/18-organizerler/15897-kilifli-defter/15897-3-burgaz-ic",
+    "catalog/tedarikci/etkin/urunler/18-organizerler/15897-kilifli-defter/15897-4-13x21-defter-ici-cizgili-2"
+   ],
+   "text": "Ürün Kodu Burgaz-TB Stok Stok güncelleniyor… Birim fiyat ₺ 398,00 + KDV ₺ 398,00 + KDV − + Teklif Listeme Ekle Özellikler Diğer seçenekler Deri Termo Metal Toka Var Ebat 14.5 x 23 cm Baskı Gofre, Lazer Koli Adeti 30 Defter Ebat 13 x 21 cm Sayfa Sayısı 224, Çizgili Kağıt 70 gram Ivory Renk Taba Seçenekler Renk Stok Füme Stok güncelleniyor… Kırmızı Stok güncelleniyor… Lacivert Stok güncelleniyor… ",
+   "price": "398,00",
+   "min": null
+  },
+  {
+   "file": "canakkale-hediyelik-set.html",
+   "url": "https://nurajanda.com/canakkale-hediyelik-set",
+   "name": "Çanakkale Hediyelik Set",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/14926-hediyelik-set/14926-1-canakkale-konsept",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/14926-hediyelik-set/14926-2-0505-300-siyah-2",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/14926-hediyelik-set/14926-3-0505-300-siyah",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/14926-hediyelik-set/14926-4-8113-siyah",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/14926-hediyelik-set/14926-5-akcaabat-anahtarlik",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/14926-hediyelik-set/14926-6-akcaabat-defter",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/14926-hediyelik-set/14926-7-akcaabat-powerbank",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/14926-hediyelik-set/14926-8-deri-kartlik2",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/14926-hediyelik-set/14926-9-kutu5"
+   ],
+   "text": "Ürün Kodu Çanakkale Stok Stok güncelleniyor… Birim fiyat ₺ 2.220,00 + KDV ₺ 2.220,00 + KDV − + Teklif Listeme Ekle Özellikler Kutu Cilt Bezi Ebat 38 x 28 x 5,5 cm ",
+   "price": "2.220,00",
+   "min": null
+  },
+  {
+   "file": "cesme-fm-organizer-ajanda.html",
+   "url": "https://nurajanda.com/cesme-fm-organizer-ajanda",
+   "name": "Çeşme-FM Organizer Ajanda",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/18-organizerler/16301-organizer-ajanda/16301-1-cesme-fume",
+    "catalog/tedarikci/etkin/urunler/18-organizerler/16301-organizer-ajanda/16301-2-cesme-ic-v2",
+    "catalog/tedarikci/etkin/urunler/18-organizerler/16301-organizer-ajanda/16301-3-organizer-ic-2"
+   ],
+   "text": "Ürün Kodu Çeşme-FM Stok Stok güncelleniyor… Birim fiyat ₺ 540,00 + KDV ₺ 540,00 + KDV − + Teklif Listeme Ekle Özellikler Diğer seçenekler Deri Termo Metal Toka Var Ebat 18 x 23 cm Baskı Gofre, Lazer Koli Adeti 30 Ajanda Ebat 15 x 21 cm Sayfa Sayısı 352, Çizgili Kağıt 70 gram krem Renk Füme Seçenekler Renk Stok Lacivert Stok güncelleniyor… ",
+   "price": "540,00",
+   "min": null
+  },
+  {
+   "file": "darica-ds-dikisli-haftalik-ajanda.html",
+   "url": "https://nurajanda.com/darica-ds-dikisli-haftalik-ajanda",
+   "name": "Darıca-DS Dikişli Haftalık Ajanda",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/19-tarihli-ajandalar/15815-dikisli-haftalik-ajanda/15815-1-darica-dikisli-siyah"
+   ],
+   "text": "Ürün Kodu Darıca-DS Stok Stok güncelleniyor… Birim fiyat ₺ 278,00 + KDV ₺ 278,00 + KDV − + Teklif Listeme Ekle Özellikler Diğer seçenekler Deri Termo Ebat 20 x 28 cm Baskı Gofre, UV Sayfa Sayısı 128 Kağıt 90 gram (Ivory) krem Renk Siyah Seçenekler Renk Stok Kırmızı Stok güncelleniyor… Lacivert Stok güncelleniyor… Siyah-Yeni Stok güncelleniyor… Taba Stok güncelleniyor… ",
+   "price": "278,00",
+   "min": null
+  },
+  {
+   "file": "datca-hediyelik-set.html",
+   "url": "https://nurajanda.com/datca-hediyelik-set",
+   "name": "Datça Hediyelik Set",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16270-hediyelik-set/16270-1-datca-konsept",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16270-hediyelik-set/16270-2-0505-300-siyah-2",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16270-hediyelik-set/16270-3-0505-300-siyah",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16270-hediyelik-set/16270-4-34096b5843e771973ff2ae71063aee33",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16270-hediyelik-set/16270-5-an-5420-siyah",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16270-hediyelik-set/16270-6-kutu5",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16270-hediyelik-set/16270-7-mat-defter",
+    "catalog/tedarikci/etkin/urunler/116-hediyelik-setler/16270-hediyelik-set/16270-8-pwb-915-siyah"
+   ],
+   "text": "Ürün Kodu Datça Stok Stok güncelleniyor… Birim fiyat ₺ 2.000,00 + KDV ₺ 2.000,00 + KDV − + Teklif Listeme Ekle Özellikler Kutu Cilt Bezi Ebat 38 x 28 x 5,5 cm ",
+   "price": "2.000,00",
+   "min": null
+  },
+  {
+   "file": "didim-k-organizer-ajanda.html",
+   "url": "https://nurajanda.com/didim-k-organizer-ajanda",
+   "name": "Didim-K Organizer Ajanda",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/18-organizerler/13212-organizer-ajanda/13212-1-didim-kirmizi",
+    "catalog/tedarikci/etkin/urunler/18-organizerler/13212-organizer-ajanda/13212-2-didim-ic",
+    "catalog/tedarikci/etkin/urunler/18-organizerler/13212-organizer-ajanda/13212-3-organizer-ic-2"
+   ],
+   "text": "Ürün Kodu Didim-K Stok Stok güncelleniyor… Birim fiyat ₺ 670,00 + KDV ₺ 670,00 + KDV − + Teklif Listeme Ekle Özellikler Diğer seçenekler Deri Termo Metal Toka Var Hesap Makinası Var Ebat 18 x 23 cm Baskı Gofre, Lazer Koli Adeti 30 Ajanda Ebat 15 x 21 cm Sayfa Sayısı 352, Çizgili Kağıt 70 gram krem Renk Kırmızı Seçenekler Renk Stok Lacivert Stok güncelleniyor… Siyah Stok güncelleniyor… ",
+   "price": "670,00",
+   "min": null
+  },
+  {
+   "file": "goztepe-l-gizli-spiralli-gunluk-ajanda.html",
+   "url": "https://nurajanda.com/goztepe-l-gizli-spiralli-gunluk-ajanda",
+   "name": "Göztepe-L Gizli Spiralli Günlük Ajanda",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/19-tarihli-ajandalar/15019-gizli-spiralli-gunluk-ajanda/15019-1-goztepe-lacivert-v2"
+   ],
+   "text": "Ürün Kodu Göztepe-L Stok Stok güncelleniyor… Birim fiyat ₺ 288,00 + KDV ₺ 288,00 + KDV − + Teklif Listeme Ekle Özellikler Diğer seçenekler Deri Termo Kalem Tutucu Var Ebat 16.5 x 22 cm Baskı Gofre, Serigrafi, UV Koli Adeti 40 Sayfa Sayısı 336 Kağıt 70 gram (Ivory) Krem Renk Lacivert Seçenekler Renk Stok Füme Stok güncelleniyor… Kırmızı Stok güncelleniyor… Taba Stok güncelleniyor… ",
+   "price": "288,00",
+   "min": null
+  },
+  {
+   "file": "hereke-g-gizli-spiralli-gunluk-ajanda.html",
+   "url": "https://nurajanda.com/hereke-g-gizli-spiralli-gunluk-ajanda",
+   "name": "Hereke-G Gizli Spiralli Günlük Ajanda",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/19-tarihli-ajandalar/13252-gizli-spiralli-gunluk-ajanda/13252-1-hereke-gri",
+    "catalog/tedarikci/etkin/urunler/19-tarihli-ajandalar/13252-gizli-spiralli-gunluk-ajanda/13252-2-hereke-sirt",
+    "catalog/tedarikci/etkin/urunler/19-tarihli-ajandalar/13252-gizli-spiralli-gunluk-ajanda/13252-3-hereke-ic2",
+    "catalog/tedarikci/etkin/urunler/19-tarihli-ajandalar/13252-gizli-spiralli-gunluk-ajanda/13252-4-gizli-spiralli-ajanda-ic"
+   ],
+   "text": "Ürün Kodu Hereke-G Stok Stok güncelleniyor… Birim fiyat ₺ 348,00 + KDV ₺ 348,00 + KDV − + Teklif Listeme Ekle Özellikler Diğer seçenekler Deri Termo Ebat 17.5 x 24 cm Baskı Gofre, Serigrafi, UV Koli Adeti 40 Sayfa Sayısı 336 Kağıt 70 gram (Ivory) Krem Renk Gri Seçenekler Renk Stok Kırmızı Stok güncelleniyor… Lacivert Stok güncelleniyor… Siyah Stok güncelleniyor… Taba Stok güncelleniyor… ",
+   "price": "348,00",
+   "min": null
+  },
+  {
+   "file": "km-300-3lu-kristal-masa-seti.html",
+   "url": "https://nurajanda.com/km-300-3lu-kristal-masa-seti",
+   "name": "KM-300 3lü Kristal Masa Seti",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/4-kristal-masa-setleri/17621-3lu-kristal-masa-seti/17621-1-km-300-konsept"
+   ],
+   "text": "Ürün Kodu KM-300 Stok Stok güncelleniyor… Birim fiyat ₺ 3.600,00 + KDV ₺ 3.600,00 + KDV − + Teklif Listeme Ekle Özellikler Gövde Ebat 16x30 cm Telefon Standı 12x12 cm Kalem Kutusu 12x12 cm B. Alanı 60 x 150 mm Ebat 16 x 30 cm ",
+   "price": "3.600,00",
+   "min": null
+  },
+  {
+   "file": "kral-kristal-masa-seti.html",
+   "url": "https://nurajanda.com/kral-kristal-masa-seti",
+   "name": "Kral Kristal Masa Seti",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/4-kristal-masa-setleri/17177-kristal-masa-seti/17177-1-kral-5101-konsept"
+   ],
+   "text": "Ürün Kodu Kral Stok Stok güncelleniyor… Birim fiyat ₺ 3.500,00 + KDV ₺ 3.500,00 + KDV − + Teklif Listeme Ekle Özellikler Ebat 20 x 50 cm B. Alanı 60 x 200 mm ",
+   "price": "3.500,00",
+   "min": null
+  },
+  {
+   "file": "levent-l-cantali-ajanda.html",
+   "url": "https://nurajanda.com/levent-l-cantali-ajanda",
+   "name": "LEVENT-L Çantalı Ajanda",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/18-organizerler/9796-cantali-ajanda/9796-1-levent-lacivert"
+   ],
+   "text": "Ürün Kodu LEVENT-L Stok Stok güncelleniyor… − + Teklif Listeme Ekle Özellikler Diğer seçenekler Deri Termo Metal Toka Var Hesap Makinası Var Ebat 26.5 x 19 cm Baskı Gofre, Lazer, UV Koli Adeti 30 Ajanda Ebat 16.5 x 24 cm Sayfa Sayısı 336 Kağıt 70 gram krem Renk Lacivert Seçenekler Renk Stok Füme Stok güncelleniyor… Kırmızı Stok güncelleniyor… ",
+   "price": null,
+   "min": null
+  },
+  {
+   "file": "maslak-fm-organizer-ajanda.html",
+   "url": "https://nurajanda.com/maslak-fm-organizer-ajanda",
+   "name": "Maslak-FM Organizer Ajanda",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/18-organizerler/16298-organizer-ajanda/16298-1-maslak-fume",
+    "catalog/tedarikci/etkin/urunler/18-organizerler/16298-organizer-ajanda/16298-2-maslak-ic",
+    "catalog/tedarikci/etkin/urunler/18-organizerler/16298-organizer-ajanda/16298-3-organizer-ic-2"
+   ],
+   "text": "Ürün Kodu Maslak-FM Stok Stok güncelleniyor… Birim fiyat ₺ 670,00 + KDV ₺ 670,00 + KDV − + Teklif Listeme Ekle Özellikler Diğer seçenekler Deri Termo Metal Toka Var Hesap Makinası Var Ebat 18 x 23 cm Baskı Gofre, Lazer Koli Adeti 30 Ajanda Ebat 15 x 21 cm Sayfa Sayısı 352, Çizgili Kağıt 70 gram krem Renk Füme Seçenekler Renk Stok Kırmızı Stok güncelleniyor… Lacivert Stok güncelleniyor… Taba Stok güncelleniyor… ",
+   "price": "670,00",
+   "min": null
+  },
+  {
+   "file": "ortakoy.html",
+   "url": "https://nurajanda.com/ortakoy-l-tarihsiz-defter",
+   "name": "Ortaköy-L Tarihsiz Defter",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/25-defterler/14051-tarihsiz-defter/14051-1-ortakoy-lacivert"
+   ],
+   "text": "Ürün Kodu Ortaköy-L Stok Stok güncelleniyor… Birim fiyat ₺ 208,00 + KDV ₺ 208,00 + KDV − + Teklif Listeme Ekle Özellikler Diğer seçenekler Deri Termo Ebat 15 x 21 cm Kart ve Telefon Bölmesi Var Kalem Tutucu Var Baskı Gofre, UV Koli Adeti 36 Sayfa Stili Çizgili Sayfa Sayısı 224 Kağıt 70 gram (Ivory) Krem Renk Lacivert Seçenekler Renk Stok Füme Stok güncelleniyor… Gri Stok güncelleniyor… Kırmızı Stok güncelleniyor… Taba Stok güncelleniyor… Turkuaz Mavi Stok güncelleniyor… Turkuaz Yeşil Stok güncelleniyor… ",
+   "price": "208,00",
+   "min": null
+  },
+  {
+   "file": "silivri-g-kilifli-defter.html",
+   "url": "https://nurajanda.com/silivri-g-kilifli-defter",
+   "name": "Silivri-G Kılıflı Defter",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/18-organizerler/15896-kilifli-defter/15896-1-silivri-gri",
+    "catalog/tedarikci/etkin/urunler/18-organizerler/15896-kilifli-defter/15896-2-silivri-imaj-2",
+    "catalog/tedarikci/etkin/urunler/18-organizerler/15896-kilifli-defter/15896-3-13x21-defter-ici-cizgili-2"
+   ],
+   "text": "Ürün Kodu Silivri-G Stok Stok güncelleniyor… Birim fiyat ₺ 430,00 + KDV ₺ 430,00 + KDV − + Teklif Listeme Ekle Özellikler Deri Termo Metal Toka Var Ebat 14.5 x 24 cm Baskı Gofre, Lazer, UV Koli Adeti 30 Defter Ebat 13 x 21 cm Sayfa Sayısı 160, Çizgili Kağıt 60 gram holmen Renk Gri ",
+   "price": "430,00",
+   "min": null
+  },
+  {
+   "file": "tarz-sekreter-bloknot.html",
+   "url": "https://nurajanda.com/tarz-sekreter-bloknot",
+   "name": "Tarz Sekreter Bloknot",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/16-sekreter-bloknotlar/17619-sekreter-bloknot/17619-1-tarz",
+    "catalog/tedarikci/etkin/urunler/16-sekreter-bloknotlar/17619-sekreter-bloknot/17619-2-tarz-acik",
+    "catalog/tedarikci/etkin/urunler/16-sekreter-bloknotlar/17619-sekreter-bloknot/17619-3-saygin-kutu"
+   ],
+   "text": "Ürün Kodu Tarz Stok Stok güncelleniyor… Birim fiyat ₺ 384,00 + KDV ₺ 384,00 + KDV − + Teklif Listeme Ekle Özellikler Deri Termo Ebat 24 x 31.5 cm Baskı Gofre, UV Kalem Tutucu Var Planlayıcı Var Hesap Makinası Var ",
+   "price": "384,00",
+   "min": null
+  },
+  {
+   "file": "trabzon-l-organizer-ajanda.html",
+   "url": "https://nurajanda.com/trabzon-l-organizer-ajanda",
+   "name": "Trabzon-L Organizer Ajanda",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/18-organizerler/17547-organizer-ajanda/17547-1-trabzon-lacivert",
+    "catalog/tedarikci/etkin/urunler/18-organizerler/17547-organizer-ajanda/17547-2-trabzon-ic",
+    "catalog/tedarikci/etkin/urunler/18-organizerler/17547-organizer-ajanda/17547-3-organizer-ic-2"
+   ],
+   "text": "Ürün Kodu Trabzon-L Stok Stok güncelleniyor… Birim fiyat ₺ 670,00 + KDV ₺ 670,00 + KDV − + Teklif Listeme Ekle Özellikler Diğer seçenekler Deri Termo Metal Toka Var Hesap Makinası Var Ebat 18 x 23 cm Baskı Gofre, Lazer, UV Koli Adeti 30 Ajanda Ebat 15 x 21 cm Sayfa Sayısı 352, Çizgili Kağıt 70 gram krem Renk Lacivert Seçenekler Renk Stok Gri Stok güncelleniyor… Kırmızı Stok güncelleniyor… Siyah Stok güncelleniyor… ",
+   "price": "670,00",
+   "min": null
+  },
+  {
+   "file": "vefa-fm-tarihsiz-defter.html",
+   "url": "https://nurajanda.com/vefa-fm-tarihsiz-defter",
+   "name": "Vefa-FM Tarihsiz Defter",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/25-defterler/16334-tarihsiz-defter/16334-1-vefa-fume"
+   ],
+   "text": "Ürün Kodu Vefa-FM Stok Stok güncelleniyor… Birim fiyat ₺ 176,00 + KDV ₺ 176,00 + KDV − + Teklif Listeme Ekle Özellikler Diğer seçenekler Deri Termo Ebat 15 x 21 cm Kalem Tutucu Var Elastik Bant Var Baskı Gofre, UV Koli Adeti 40 Sayfa Stili Çizgili Sayfa Sayısı 224 Kağıt 70 gram (Ivory) Krem Renk Füme Seçenekler Renk Stok Gri Stok güncelleniyor… Kırmızı Stok güncelleniyor… Lacivert Stok güncelleniyor… Taba Stok güncelleniyor… Turkuaz Stok güncelleniyor… ",
+   "price": "176,00",
+   "min": null
+  },
+  {
+   "file": "w510-mercan-masa-seti.html",
+   "url": "https://nurajanda.com/w510-mercan-masa-seti",
+   "name": "W510 Mercan Masa Seti",
+   "imgs": [
+    "catalog/tedarikci/etkin/urunler/78-masa-sumenleri/16471-masa-seti/16471-1-w510-mercan-kutu"
+   ],
+   "text": "Ürün Kodu W510 Mercan Stok Stok güncelleniyor… İmalat ürün Evet Birim fiyat ₺ 6.700,00 + KDV ₺ 6.700,00 + KDV − + Teklif Listeme Ekle Özellikler 1 Kalem Seti 2 Kalemlik 3 Telefon Standı 4 Küp Notluk 5 Notluk 6 Kartvizitlik ",
+   "price": "6.700,00",
+   "min": null
+  }
+ ]
+}

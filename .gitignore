@@ -1,0 +1,7 @@
+node_modules/
+video/node_modules/
+video/out/*
+!video/out/nur-ajanda-reels-35s.mp4
+!video/out/poster-*.jpg
+.DS_Store
+*.log

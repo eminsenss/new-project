@@ -1,0 +1,412 @@
+{
+ "date": "2026-11-08T01:20:42.478Z",
+ "total": 81,
+ "failed": 0,
+ "results": [
+  {
+   "name": "[360] yatay taşma yok",
+   "pass": true,
+   "info": "360/360"
+  },
+  {
+   "name": "[360] kırık görsel yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[360] tek H1",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[360] 12 px altı metin yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[360] dokunma hedefleri ≥ 40 px",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[360] konsol/ağ hatası yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] yatay taşma yok",
+   "pass": true,
+   "info": "390/390"
+  },
+  {
+   "name": "[390] kırık görsel yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] tek H1",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] 12 px altı metin yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] dokunma hedefleri ≥ 40 px",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] konsol/ağ hatası yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[430] yatay taşma yok",
+   "pass": true,
+   "info": "430/430"
+  },
+  {
+   "name": "[430] kırık görsel yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[430] tek H1",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[430] 12 px altı metin yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[430] dokunma hedefleri ≥ 40 px",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[430] konsol/ağ hatası yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[768] yatay taşma yok",
+   "pass": true,
+   "info": "768/768"
+  },
+  {
+   "name": "[768] kırık görsel yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[768] tek H1",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[768] 12 px altı metin yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[768] dokunma hedefleri ≥ 40 px",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[768] konsol/ağ hatası yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1024] yatay taşma yok",
+   "pass": true,
+   "info": "1024/1024"
+  },
+  {
+   "name": "[1024] kırık görsel yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1024] tek H1",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1024] 12 px altı metin yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1024] dokunma hedefleri ≥ 40 px",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1024] konsol/ağ hatası yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] yatay taşma yok",
+   "pass": true,
+   "info": "1440/1440"
+  },
+  {
+   "name": "[1440] kırık görsel yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] tek H1",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] 12 px altı metin yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] dokunma hedefleri ≥ 40 px",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] konsol/ağ hatası yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] filtre: Organizer",
+   "pass": true,
+   "info": "organizer,organizer,organizer"
+  },
+  {
+   "name": "[390] teklif listesine ekleme + rozet",
+   "pass": true,
+   "info": "rozet=2"
+  },
+  {
+   "name": "[390] bildirim (toast) görünür",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] teklif listesi açılıyor",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] listede 2 ürün",
+   "pass": true,
+   "info": "n=2"
+  },
+  {
+   "name": "[390] adet → ara toplam (250×670 + 1×208)",
+   "pass": true,
+   "info": "₺167.708,00"
+  },
+  {
+   "name": "[390] + butonu adet artırır",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] listeden çıkarma",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] form doğrulama hataları",
+   "pass": true,
+   "info": "hata=4"
+  },
+  {
+   "name": "[390] demo talep özeti + referans",
+   "pass": true,
+   "info": "DEMO-261108-G9X2"
+  },
+  {
+   "name": "[390] \"gönderilmedi\" demo uyarısı",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] liste tarayıcıda korunuyor",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] arama açılıyor",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] arama sonuçları (ürün+kategori)",
+   "pass": true,
+   "info": "ürün=12 kategori=3"
+  },
+  {
+   "name": "[390] Türkçe karakter duyarsız arama",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] aramadan teklife ekleme",
+   "pass": true,
+   "info": "2"
+  },
+  {
+   "name": "[390] arama ESC ile kapanıyor",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] baskı tekniği sekmeleri",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] sekmeler klavye ile",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] mobil menü açılıyor",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] mobil menü kapanıyor",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[390] etkileşimlerde JS hatası yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] filtre: Organizer",
+   "pass": true,
+   "info": "organizer,organizer,organizer"
+  },
+  {
+   "name": "[1440] teklif listesine ekleme + rozet",
+   "pass": true,
+   "info": "rozet=2"
+  },
+  {
+   "name": "[1440] bildirim (toast) görünür",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] teklif listesi açılıyor",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] listede 2 ürün",
+   "pass": true,
+   "info": "n=2"
+  },
+  {
+   "name": "[1440] adet → ara toplam (250×670 + 1×208)",
+   "pass": true,
+   "info": "₺167.708,00"
+  },
+  {
+   "name": "[1440] + butonu adet artırır",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] listeden çıkarma",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] form doğrulama hataları",
+   "pass": true,
+   "info": "hata=4"
+  },
+  {
+   "name": "[1440] demo talep özeti + referans",
+   "pass": true,
+   "info": "DEMO-261108-VEWJ"
+  },
+  {
+   "name": "[1440] \"gönderilmedi\" demo uyarısı",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] liste tarayıcıda korunuyor",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] arama açılıyor",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] arama sonuçları (ürün+kategori)",
+   "pass": true,
+   "info": "ürün=12 kategori=3"
+  },
+  {
+   "name": "[1440] Türkçe karakter duyarsız arama",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] aramadan teklife ekleme",
+   "pass": true,
+   "info": "2"
+  },
+  {
+   "name": "[1440] arama ESC ile kapanıyor",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] baskı tekniği sekmeleri",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] sekmeler klavye ile",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] mega menü açılıyor",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] mega menü ESC ile kapanıyor",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[1440] etkileşimlerde JS hatası yok",
+   "pass": true,
+   "info": ""
+  },
+  {
+   "name": "[reduced-motion] kayan bant durur, içerik gizlenmez",
+   "pass": true,
+   "info": "none/1"
+  }
+ ]
+}
