@@ -115,19 +115,16 @@ export const DVR: React.FC<{ width?: number; ledBlink?: boolean }> = ({ width = 
           gap: W * 0.03,
         }}
       >
+        {/* Yalnızca doğrulanmış bileşenler: güç ve harddisk ışığı. Ağ/USB gibi doğrulanmamış özellikler çizilmez. */}
         {[
           { c: "#3D6BFF", o: 1, l: "PWR" },
           { c: "#45E08A", o: hddOn, l: "HDD" },
-          { c: "#45E08A", o: 0.9, l: "NET" },
         ].map((led) => (
           <div key={led.l} style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 4 }}>
             <div style={{ width: H * 0.12, height: H * 0.12, borderRadius: "50%", background: led.c, opacity: led.o, boxShadow: `0 0 ${H * 0.18}px ${led.c}` }} />
             <div style={{ fontFamily: "'Inter', sans-serif", fontSize: H * 0.13, color: "rgba(255,255,255,0.38)", letterSpacing: "0.08em", fontWeight: 600 }}>{led.l}</div>
           </div>
         ))}
-        <div style={{ flex: 1 }} />
-        {/* USB yuvası */}
-        <div style={{ width: W * 0.045, height: H * 0.17, borderRadius: 2, background: "#050506", boxShadow: "inset 0 0 0 1px rgba(255,255,255,0.14)" }} />
       </div>
       {/* sağ yan yüz */}
       <div
@@ -149,7 +146,7 @@ export const DVR: React.FC<{ width?: number; ledBlink?: boolean }> = ({ width = 
 };
 
 /* ------------------------------------------------------------------ HDD */
-/** Marka içermeyen, temsili 3.5" 500 GB harddisk. */
+/** Marka içermeyen, temsili 500 GB harddisk (boyut/arayüz bilgisi doğrulanmadığı için yazılmaz). */
 export const HDD: React.FC<{ width?: number }> = ({ width = 260 }) => {
   const W = width;
   const L = width * 1.45;
@@ -195,7 +192,7 @@ export const HDD: React.FC<{ width?: number }> = ({ width = 260 }) => {
           }}
         >
           <div style={{ fontWeight: 800, fontSize: W * 0.17, letterSpacing: "-0.02em", lineHeight: 1 }}>500 GB</div>
-          <div style={{ fontWeight: 600, fontSize: W * 0.06, marginTop: W * 0.025, color: "#555", letterSpacing: "0.05em" }}>3.5" SATA HDD</div>
+          <div style={{ fontWeight: 600, fontSize: W * 0.06, marginTop: W * 0.025, color: "#555", letterSpacing: "0.05em" }}>HARDDİSK</div>
           {[0.82, 0.64, 0.74, 0.5].map((w, i) => (
             <div key={i} style={{ height: W * 0.018, width: `${w * 100}%`, background: "rgba(0,0,0,0.16)", borderRadius: 2, marginTop: W * 0.035 }} />
           ))}
